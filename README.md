@@ -11,18 +11,15 @@ Estruturas de decisão (if, elif, else)
 Manipulação de listas e dicionários
 
 Lógica de programação e algoritmos
+
 🛠️ Como executar os exercícios
 Para rodar qualquer um dos scripts localmente, você precisará ter o Python instalado em sua máquina.
-
-Clone o repositório:
-
+1. Clone o repositório:
 Bash
 git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-Navegue até a pasta:
-
+2.Navegue até a pasta:
 Bash
 cd NOME_DO_REPOSITORIO
-Execute o arquivo desejado:
-
+3.Execute o arquivo desejado:
 Bash
 python Calculo_Faculdade.py
