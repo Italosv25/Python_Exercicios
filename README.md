@@ -17,4 +17,10 @@ Para rodar qualquer um dos scripts localmente, você precisará ter o **Python**
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/SEU_USUARIO/Python_Exercicios.git](https://github.com/SEU_USUARIO/Python_Exercicios.git)
+2. Navegue até a pasta:
+   ```bash
+   cd Python_Exercicios
+3. Execute o arquivo desejado:
+   ```bash
+   python Calculo_Faculdade.py
    
