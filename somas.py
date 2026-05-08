@@ -8,3 +8,5 @@ Subtracao = A - B
 print("Subtracao: ", Subtracao)
 Multiplicacao = A * B
 print("Multiplicacao: ", Multiplicacao)
+Resolucao = Divisao + Multiplicacao
+print("Resolucao: ", Resolucao)
