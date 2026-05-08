@@ -17,4 +17,4 @@ print(f"Idade em meses:   {Meses}")
 print(f"Idade em dias:    {Dias}")
 print(f"Idade em minutos: {Minutos}")
 print(f"Idade em segundos:{Segundos}")
-print("ola")
+
